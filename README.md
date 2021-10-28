@@ -8,4 +8,5 @@ If you are also learning DSA with any language and want to contribut your code f
 I am very thankful for your contribution to DSA concepts as it helps others to acquire new concepts.
 
 Thanks 
-Regards Tejas Singh
+Regards 
+Tejas Singh
